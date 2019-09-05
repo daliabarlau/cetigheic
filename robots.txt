@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aidohthae.marikaimaciek.pl/sitemap.xml
